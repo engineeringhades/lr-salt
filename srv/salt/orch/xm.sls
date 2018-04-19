@@ -1,6 +1,5 @@
 C:\Program Files\LogRhythm\LogRhythm Mediator Server\config\scmedsvr.ini:
   ini.options_absent:
-    - separator: '='
     - sections:
         test:
           - testkey
